@@ -8,4 +8,4 @@ Download the complete package from the latest release and always open `เปิ
 - Stages a SHA-256 verified update and applies it on the next launch.
 - If the network is unavailable or validation fails, the current HTML remains untouched.
 
-Current release: `splitter-v1`
+Current release: `splitter-v2`
