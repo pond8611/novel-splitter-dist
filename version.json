@@ -1,10 +1,10 @@
 {
-    "version": 2,
-    "release_tag": "splitter-v2",
+    "version": 3,
+    "release_tag": "splitter-v3",
     "html_name": "novel-splitter-offline.html",
-    "html_url": "https://github.com/pond8611/novel-splitter-dist/releases/download/splitter-v2/novel-splitter-offline.html",
-    "html_sha256": "49776d903b4fb00931e380775cbcc551f6e3fb8d0e9cb2b266e4aca07a89f371",
-    "html_size": 4940963,
-    "package_url": "https://github.com/pond8611/novel-splitter-dist/releases/download/splitter-v2/Novel-Splitter-v2.zip",
-    "published_at": "2026-07-27T15:54:57Z"
+    "html_url": "https://github.com/pond8611/novel-splitter-dist/releases/download/splitter-v3/novel-splitter-offline.html",
+    "html_sha256": "14bd2f92b066e9cf227a405d02a2d1d6160f856744a4f436ff9c026facfbe6a0",
+    "html_size": 5009599,
+    "package_url": "https://github.com/pond8611/novel-splitter-dist/releases/download/splitter-v3/Novel-Splitter-v3.zip",
+    "published_at": "2026-07-31T20:32:24Z"
 }
